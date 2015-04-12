@@ -70,5 +70,8 @@ You have a set of very complex div structure like following:
     
     </div>
 
+# Known Bugs
+Function dosent seem to work properly im gh-pages. Please clone or doenload a zipped version and try it with a localhost.
+
 # Try it <a href="http://girishrawat.github.io/Task-3/">here</a>.
 <hr>
