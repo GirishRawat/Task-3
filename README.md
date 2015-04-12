@@ -70,4 +70,5 @@ You have a set of very complex div structure like following:
     
     </div>
 
-# Try it <a href="http://girishrawat.github.io/Task-3/">here</a>
+# Try it <a href="http://girishrawat.github.io/Task-3/">here</a>.
+<hr>
